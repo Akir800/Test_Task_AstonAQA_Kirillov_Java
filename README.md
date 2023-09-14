@@ -24,11 +24,13 @@ Test task for Aston AQA Trainee
 ## .jar файл
 
 В корне репозитория находится папка с jar файлами;
-Запуск через терминал с jar-ником: java -jar ./out/artifacts/kav1/task1.jar 
+Запуск через терминал с jar-ником: 
 
-                                   java -jar ./out/artifacts/kav2/task2.jar
+java -jar ./out/artifacts/kav1/task1.jar 
+
+java -jar ./out/artifacts/kav2/task2.jar
                                    
-                                   java -jar ./out/artifacts/kav3/task3.jar
+java -jar ./out/artifacts/kav3/task3.jar
 
 
 ## Задание 4, ответ в текстовой форме:
